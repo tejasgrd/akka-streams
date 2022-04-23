@@ -25,7 +25,7 @@ public class AkkaStreamsSamples {
 
     public static void main(String[] args) {
         AkkaStreamsSamples sample = new AkkaStreamsSamples();
-        //sample.runBasicAkkaStream();
+        sample.runBasicAkkaStream();
         sample.addingStreamValues();
     }
 
